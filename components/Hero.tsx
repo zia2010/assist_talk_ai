@@ -19,8 +19,8 @@ export function Hero() {
           </h1>
 
           <p className="max-w-xl text-base leading-relaxed text-slate-500 sm:text-lg">
-            Stop losing patients to voicemail. Our AI receptionist handles
-            appointment scheduling, patient inquiries, and after-hours calls —
+            Stop losing clients to voicemail. Our AI receptionist handles
+            appointment scheduling, client inquiries, and after-hours calls —
             in a natural human voice, 24/7.
           </p>
 
